@@ -1,4 +1,9 @@
-//Write a c code to evaluate quadratic equation.Capture coefficients from user
+/*Project: Solve Quadratic Equation
+Question:Write a c code to evaluate quadratic equation.Capture coefficients from user
+File_name:q2.c
+Author:Rakhitha Baburaj
+Date:2-10-2024
+*/
 #include <stdio.h>
 #include <math.h>
 
