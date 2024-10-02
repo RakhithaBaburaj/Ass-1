@@ -1,4 +1,11 @@
-//Write a c code to check number of 1's in the binary equivalent of a given number.
+/*project:Number of ones in binary 
+    Question:Write a c code to check number of 1's in the binary equivalent of a given number.
+    File_name:q1.c
+    Author:Rakhitha Baburaj
+    Date:2-10-2024
+ */
+
+
 #include <stdio.h>
 int main() 
 {
